@@ -1,14 +1,14 @@
 #
-# Copyright (C) 2020 The Superior Project
+# Copyright (C) 2020 The evolution Project
 #
 # SPDX-License-Identifier: Apache-2.0
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/superior_miatoll.mk
+    $(LOCAL_DIR)/evolution_miatoll.mk
 
 COMMON_LUNCH_CHOICES := \
-    superior_miatoll-user \
-    superior_miatoll-userdebug \
-    superior_miatoll-eng
+    evolution_miatoll-user \
+    evolution_miatoll-userdebug \
+    evolution_miatoll-eng
 
